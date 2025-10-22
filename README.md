@@ -1,5 +1,8 @@
 # Egebet - Güvenli ve Hızlı Online Bahis Platformu
 
+<img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/fae2941f-d3bb-45df-80c2-0da6d8f8739f" />
+
+
 [Egebet Ana Site](https://www.egebet.com) ile bahis deneyiminizi bir üst seviyeye taşıyın! Canlı casino, spor bahisleri ve slot oyunlarında **güvenli**, **hızlı** ve **kullanıcı dostu** bir platform.
 
 ## Özellikler
